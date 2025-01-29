@@ -1,3 +1,5 @@
+# Problem Statement
+  - https://classroom.codingninjas.com/app/classroom/me/25433/content/694576/offering/11358714
 # iPod using reactjs
 
 Welcome to the iPod Music App project! This application is a simulation of an iPod music interface, built using modern web technologies to replicate a classic music player experience.
